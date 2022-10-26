@@ -1,0 +1,15 @@
+h4{
+    color: #fff;
+}
+
+
+.random-block {
+    background-color:#fff;
+   
+}
+.random-block h4{
+    color:#000;
+    text-align:center;
+    padding: 20px 0px;
+    border-bottom: 1px solid #000;
+}

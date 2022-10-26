@@ -1,0 +1,13 @@
+.select-error{
+    color:#fff;
+}
+.char-details {
+    background-color:#fff;
+   
+}
+.char-details h4{
+    color:#000;
+    text-align:center;
+    padding: 20px 0px;
+    border-bottom: 1px solid #000;
+}
